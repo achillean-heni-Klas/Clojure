@@ -87,3 +87,5 @@ inspired by screeps but simpler. no economy, no mining, just pure combat.
 
 MIT • [github.com/battle-sim/cospd-arena](https://github.com/battle-sim/cospd-arena)
 
+
+# PR Merge: 2025-11-01 07:58:27
